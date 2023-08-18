@@ -1,0 +1,35 @@
+.cart-page {
+  margin-top: 64px;
+}
+
+.cart-page h1 {
+  padding: 15px !important;
+  font-family: "roboto", sans-serif;
+  font-weight: normal;
+  background-color: rgba(0, 0, 255, 0.072) !important;
+}
+.cart-page h1 > p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.cart-page .card {
+  padding: 5px !important;
+  margin-bottom: 5px !important;
+  box-sizing: border-box;
+}
+
+.cart-page .cart-summary {
+  text-align: center;
+}
+.itembtns{
+  outline: none;
+  background: none;
+  border: none;
+}
+.no-arrows::-webkit-inner-spin-button,
+.no-arrows::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
